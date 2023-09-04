@@ -1,0 +1,11 @@
+.positionContainer {
+  bottom: 0;
+  height: 120px;
+  position: absolute;
+}
+
+.positionIndicatorWrapper {
+  justify-content: center;
+  position: relative;
+  width: 0;
+}

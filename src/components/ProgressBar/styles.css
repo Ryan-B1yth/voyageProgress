@@ -1,0 +1,39 @@
+.progressPoints {
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.progressBar {
+  position: absolute;
+  width: 100%;
+}
+
+.singlePointContainer {
+  align-items: center;
+  height: 100px;
+  justify-content: center;
+  width: 0;
+}
+
+.dot {
+  border-radius: 100px;
+  position: absolute;
+}
+
+.terminalDotContainer {
+  justify-content: center;
+}
+
+.portName {
+  top: 50px;
+  margin-top: 50px;
+}
+
+.dark {
+  background-color: var(--clr-blue-dark);
+}
+
+.light {
+  background-color: var(--clr-blue-light);
+}
