@@ -1,5 +1,14 @@
+:root {
+  --clr-blue-light: #83a2c0;
+  --clr-blue-dark: #345370;
+}
+
+#root {
+  display: flex;
+  width: 100%;
+}
+
 body {
-  margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
